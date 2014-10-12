@@ -1,0 +1,2 @@
+Program simulating OSP - CPU Process
+PCB processes with a foreground and background queue
